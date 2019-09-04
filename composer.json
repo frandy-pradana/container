@@ -1,0 +1,24 @@
+{
+    "name": "flash/container",
+    "description": "php container component",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "frandy-pradana",
+            "email": "frandypradana31@gmail.com"
+        }
+    ],
+    "require": {
+        "psr/container": "^1.0"
+    },
+    "require-dev": {
+      "phpunit/phpunit": "^8"  
+    },
+    "autoload": {
+        "psr-4": {
+            "Flash\\Container\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
