@@ -1,6 +1,6 @@
 <?php
 
-namespace Sing\Container;
+namespace Frandy\Container;
 
 class IsNotInstantiableException extends \Exception
 {

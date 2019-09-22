@@ -1,12 +1,12 @@
 <?php
 
-namespace Sing\Container;
+namespace Frandy\Container;
 
 use ArrayAccess;
 use ReflectionClass;
-use Sing\Container\NotFoundException;
+use Frandy\Container\NotFoundException;
 use Psr\Container\ContainerInterface;
-use Sing\Container\IsNotInstantiableException;
+use Frandy\Container\IsNotInstantiableException;
 
 class Container implements ArrayAccess,ContainerInterface
 {

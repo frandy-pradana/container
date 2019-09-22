@@ -1,5 +1,5 @@
 {
-    "name": "sing/container",
+    "name": "frandy/container",
     "description": "php container component",
     "type": "library",
     "license": "MIT",
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Sing\\Container\\": "src/"
+            "Frandy\\Container\\": "src/"
         }
     },
     "minimum-stability": "dev"

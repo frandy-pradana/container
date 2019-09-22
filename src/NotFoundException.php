@@ -1,6 +1,6 @@
 <?php 
 
-namespace Sing\Container;
+namespace Frandy\Container;
 
 use Psr\Container\NotFoundExceptionInterface;
 
