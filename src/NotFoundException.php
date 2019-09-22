@@ -1,6 +1,6 @@
 <?php 
 
-namespace Sanex\Container;
+namespace Sing\Container;
 
 use Psr\Container\NotFoundExceptionInterface;
 

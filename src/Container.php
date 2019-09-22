@@ -1,12 +1,12 @@
 <?php
 
-namespace Sanex\Container;
+namespace Sing\Container;
 
 use ArrayAccess;
 use ReflectionClass;
-use Sanex\Container\NotFoundException;
+use Sing\Container\NotFoundException;
 use Psr\Container\ContainerInterface;
-use Sanex\Container\IsNotInstantiableException;
+use Sing\Container\IsNotInstantiableException;
 
 class Container implements ArrayAccess,ContainerInterface
 {

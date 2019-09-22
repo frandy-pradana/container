@@ -1,5 +1,5 @@
 {
-    "name": "sanex/container",
+    "name": "sing/container",
     "description": "php container component",
     "type": "library",
     "license": "MIT",
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Sanex\\Container\\": "src/"
+            "Sing\\Container\\": "src/"
         }
     },
     "minimum-stability": "dev"

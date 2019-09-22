@@ -1,6 +1,6 @@
 <?php
 
-namespace Sanex\Container;
+namespace Sing\Container;
 
 class IsNotInstantiableException extends \Exception
 {
