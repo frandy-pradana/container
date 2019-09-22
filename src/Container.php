@@ -1,12 +1,12 @@
 <?php
 
-namespace Flash\Container;
+namespace Sanex\Container;
 
 use ArrayAccess;
 use ReflectionClass;
-use Flash\Container\NotFoundException;
+use Sanex\Container\NotFoundException;
 use Psr\Container\ContainerInterface;
-use Flash\Container\IsNotInstantiableException;
+use Sanex\Container\IsNotInstantiableException;
 
 class Container implements ArrayAccess,ContainerInterface
 {

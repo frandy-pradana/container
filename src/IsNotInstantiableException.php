@@ -1,6 +1,6 @@
 <?php
 
-namespace Flash\Container;
+namespace Sanex\Container;
 
 class IsNotInstantiableException extends \Exception
 {
